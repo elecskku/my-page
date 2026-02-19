@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 1. 사진 경로 설정 (기존 경로 유지)
-PATH_HERO_IMAGE = "/Users/temp/Downloads/IMG_4429.JPG"
+PATH_HERO_IMAGE = "IMG_4429.JPG"
 PATH_PROFILE_SQUARE = "/Users/temp/Desktop/macb/스펙/동아리/original.jpeg"
 
 # 페이지 설정
